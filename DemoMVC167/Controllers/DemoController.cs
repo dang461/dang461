@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace DemoMVC061.Controllers
+namespace DemoMVC167.Controllers
 {
     public class DemoController : Controller
     {

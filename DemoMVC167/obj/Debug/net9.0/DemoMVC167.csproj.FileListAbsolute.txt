@@ -1,0 +1,8 @@
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive\Máy tính\PTPMQL\DemoMVC167\obj\Debug\net9.0\DemoMVC167.sourcelink.json
